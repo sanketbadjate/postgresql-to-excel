@@ -1,0 +1,9 @@
+{
+    "conn": {
+        "DB_HOST": "",
+        "DB_PORT": "",
+        "PAYMENT_DB_USER": "",
+        "PAYMENT_DB_PASSWORD": "",
+        "PAYMENT_DB_NAME": ""
+    }
+}
